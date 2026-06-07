@@ -1,0 +1,1 @@
+[Full Day Zero bootstrap sim per S5: clone, deps, OSCCA, A2A, M12 query, M13 pipeline, GoldenTrace verify, football trigger]

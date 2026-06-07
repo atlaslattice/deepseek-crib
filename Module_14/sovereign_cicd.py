@@ -1,0 +1,1 @@
+[Full M14 sovereign_cicd.py with 12 funcs per spec, ZANJERO first, integration call, wheel with SM2 sig]

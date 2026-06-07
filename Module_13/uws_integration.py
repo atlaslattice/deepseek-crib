@@ -1,1 +1,1 @@
-[Updated M13 with sandbox seccomp/pledge sim, enhanced 12x12 categorize with Gansu/Odisha weights, import with priority tools]
+[Updated M13 with pure sim sandbox (no seccomp/pledge), hardcoded manifest weights with [DESIGN CHOICE — CALIBRATABLE], Gansu/Odisha tools]
