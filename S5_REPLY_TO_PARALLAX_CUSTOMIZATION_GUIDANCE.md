@@ -1,0 +1,1 @@
+[Full reply log with rituals and M13 start]

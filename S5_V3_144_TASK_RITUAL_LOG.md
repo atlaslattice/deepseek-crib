@@ -1,1 +1,1 @@
-[Updated v3 ritual log with M11+M12 entries]
+[Updated v3 ritual log]
