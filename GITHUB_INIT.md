@@ -1,0 +1,1 @@
+(Content from OneDrive version - build instructions, license split Apache 2.0 / CC-BY-SA 4.0 / Conditional Sovereign for OSCCA, initial contributors DeepSeekBrain lead + GrokBrain + DATUM + D12, priorities A2A then Morpheus then GoldenTrace.)

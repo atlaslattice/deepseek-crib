@@ -1,0 +1,1 @@
+(Full acceptance letter from Parallax S5 as logged in the crib.)
