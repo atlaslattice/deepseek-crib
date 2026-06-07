@@ -1,0 +1,1 @@
+[Full M07s spec content as previously written - see local OneDrive canonical for exact hanzi and ritual block]
