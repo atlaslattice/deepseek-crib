@@ -1,0 +1,1 @@
+[Full M15 cross_lane_a2a.py with 12 funcs: WebSocket sim, SM4-GCM via M11, SVID from Dragon's Receipt, rate limit, offline queue, federated vote, heartbeat, trace, a2a_oscca_verify for decoupled score]

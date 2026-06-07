@@ -1,0 +1,1 @@
+[New ritual log for this S5 message]
