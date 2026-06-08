@@ -1,0 +1,1 @@
+[full new doc content from read tool]
