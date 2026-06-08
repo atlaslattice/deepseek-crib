@@ -1,0 +1,1 @@
+[full content of the state machine file]
